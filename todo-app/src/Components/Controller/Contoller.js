@@ -21,7 +21,6 @@ const Controller = ({term, searchHandler, toggleForm, filterHandler, changeView,
                     </div>
                 </Col>
             </Row>
-
         </div>
     );
 }

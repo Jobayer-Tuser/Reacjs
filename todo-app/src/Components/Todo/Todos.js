@@ -25,7 +25,23 @@ class Todos extends Component{
                 time: new Date(),
                 isComplete: false,
                 isSelect: false
-            }
+            },
+            {
+                id: 'tuser114',
+                text: 'this is todo item 4',
+                description: 'this is todo item 2',
+                time: new Date(),
+                isComplete: false,
+                isSelect: false,
+            },
+            {
+                id: 'tuser115',
+                text: 'this is todo item 4',
+                description: 'this is todo item 2',
+                time: new Date(),
+                isComplete: false,
+                isSelect: false,
+            },
         ],
         isOpenTodoForm: false,
         searchTerm : '',
